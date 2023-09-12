@@ -225,7 +225,8 @@ I decided to mount the bracket screwing it in these 2 holes:
 <img src="images/06.jpg" width="300">
 
 The final result is:
-<final result picture>
+
+<img src="images/07.png" width="300">
 
 ### Electronics: wiring diagram
 The Sermoon V1 Pro comes already with a "Tocuh" connector for the CR-Touch on the board that is attached to the extruder motor.
