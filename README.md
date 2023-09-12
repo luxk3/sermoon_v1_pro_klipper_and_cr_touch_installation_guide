@@ -309,3 +309,5 @@ z_hop_speed: 5
 3. https://github.com/dw-0/kiauh
 4. 'BLtouch for any 3D printer - Comprehensive step by step guide' video by Teaching Tech [https://youtu.be/eF060dBEnfs?si=YgDGheapfuSI0P_y](https://youtu.be/eF060dBEnfs?si=YgDGheapfuSI0P_y)
 5. 'ABL offset guide including new probe Z offset wizard' video by Teaching Tech [https://youtu.be/eF060dBEnfs?si=YgDGheapfuSI0P_y](https://youtu.be/eF060dBEnfs?si=YgDGheapfuSI0P_y)
+6. Facebook group 'Creality Sermoon V1&V1 Pro Fully-enclosed 3D Printer'  [https://www.facebook.com/groups/396759118770043/] (https://www.facebook.com/groups/396759118770043/) 
+7. Z-offset explanation video https://www.youtube.com/watch?v=W8ouBPnRV4s
