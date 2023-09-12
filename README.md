@@ -26,6 +26,7 @@ My setup:
 - BRIX operating system: Ubuntu
 - Waveshare 5.5-inch Display Capacitive Touch Screen 1080×1920 Resolution HDMI AMOLED (overkill and expensive, superb quality)
 
+    <img src="images/09.png" width="300">
 
 ## Klipper on Sermoon V1 Pro
 Note: Installing Klipper on the Sermoon V1 will make the onboard LCD not work anymore. The printer screen will freeze at the boot sequence with a loading bar. The onboard LCD screen connected to the printer board is not supported by Klipper. I did not investigate this because I already had an HDMI screen (Waveshare) connected to the BRIX which I use as an output and input device (LCD with a touchscreen).
@@ -57,7 +58,7 @@ I performed the firmware configuration and compilation from the BRIX. I then cop
     make
     ```
 
-The compiled file will be saved in this path: klipper/out/klipper.bin
+    The compiled file will be saved in this path: klipper/out/klipper.bin
 
 5. Flash the firmware.
     1. I used a different method than the one mentioned on the Klipper website. I did not want to flash the firmware via the serial-USB cable, so I used the SD card.
@@ -155,6 +156,10 @@ Klipper configuration is stored in a `printer.cfg`.
     ```
     sudo systemctl restart klipper.service
     ```
+
+[**Link to my full printer.cfg**](configuration_files/printer.cfg)
+
+[**Link to my full macros.cfg**](configuration_files/macros.cfg)
 
 ### Moonraker configuration
 Moonraker needs to be connected to the Klipper Linux socket to be able to call Klipper Services APIs.
@@ -293,6 +298,8 @@ home_xy_position: 87.5, 87.5
 z_hop: 10
 z_hop_speed: 5
 ```
+
+
 
 ## Reference/links
 
