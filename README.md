@@ -223,7 +223,7 @@ One of the reasons I decided to try Klipper firmware is to have the auto bed lev
 I purchased the CR-Touch from Aliexpress and I followed mainly [this guide](https://web.archive.org/web/20230118011159/https://www.hyperio.ch/blog/creality-sermoon-v1-with-cr-touch-and-klipper.html) **with modifications as it contained some _dangerous misconfigurations_**.
 
 ### Hardware installation
-I designed a mounting bracket for the CR-touch. Here is the design [https://www.thingiverse.com/thing:6212974](https://www.thingiverse.com/thing\:6212974)
+I designed a mounting bracket for the CR-touch. Here is the design [thinghiverse](https://www.thingiverse.com/thing\:6212974), [thangs](https://than.gs/m/932089)
 
 I decided to mount the bracket screwing it in these 2 holes:
 
